@@ -12,6 +12,6 @@
         android:layout_height="wrap_content"
         android:text="@string/robert"
         android:textAlignment="center"
-        android:textSize="@dimen/text_size" />
+        style="@style/NameStyle" />
 
 </LinearLayout>
